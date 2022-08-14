@@ -573,10 +573,11 @@ display: none;
      html{
         font-size: 40%;
     }   
-    body{
-    padding-left: 0%;
-}
+   
+ section{
+    padding-left:-5%;
  
+}
     
     .foto1{
         width:60%;
