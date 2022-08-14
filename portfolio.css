@@ -573,13 +573,14 @@ display: none;
     body{
     padding-left: 15rem;
 }
-        section{
+    section{
             padding: 0 2%;}
-    }
     .foto1{
         width:60%;
         margin-top: 6%;
         margin-right: 7%;
     }
-
+    #cursor1, #cursor2{
+        display:none;}
+    }
   
