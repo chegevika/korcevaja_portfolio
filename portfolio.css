@@ -570,6 +570,9 @@ display: none;
 
     }
     @media(max-width:380px){
+     html{
+        font-size: 40%;
+    }   
     body{
     padding-left: 0;
 }
