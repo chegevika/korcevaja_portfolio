@@ -571,10 +571,9 @@ display: none;
     }
     @media(max-width:380px){
     body{
-    padding-left: 15rem;
+    padding-left: 0;
 }
-    section{
-            padding: 0 2%;}
+    
     .foto1{
         width:60%;
         margin-top: 6%;
